@@ -6,7 +6,7 @@ A **compass for Star Citizen ground vehicles**. Press Pause in game and Pathfind
 
 ## Download
 
-**[⬇ Latest release](https://github.com/PeaceFrog71/pathfinder-releases/releases/latest)**: get `PFG-Pathfinder-<version>-portable.exe`.
+**[⬇ Download PFG-Pathfinder-portable.exe](https://github.com/PeaceFrog71/pathfinder-releases/releases/latest/download/PFG-Pathfinder-portable.exe)**: always the newest build. The version shows next to the panel title; [release notes](https://github.com/PeaceFrog71/pathfinder-releases/releases/latest).
 
 - Windows 10 / 11, 64-bit. One file, no install: run it and it starts.
 - Unsigned: Windows SmartScreen warns once. Click **More info → Run anyway**.
